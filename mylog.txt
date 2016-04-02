@@ -1,0 +1,4 @@
+A new car requested: electric windows: 1000 + basic car: 15000; 55555; fffffff
+A new car requested: anti glare rear view mirror: 500 + basic car: 15000; 567755; fdhdh
+A new car requested: electric windows: 1000 + basic car: 15000; 43565; efgffg
+A new car requested: basic car: 15000; 3455; brown
